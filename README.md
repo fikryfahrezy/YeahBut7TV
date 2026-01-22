@@ -19,4 +19,4 @@ Browse and share GIFs or images of 7TV emotes on mobile.
 
 ## Demo
 
-https://github.com/user-attachments/assets/1beb507a-a886-436c-8b3b-be33e14c8572
+https://github.com/user-attachments/assets/aeafe1bb-d649-4e2a-bb6c-8f3a3700f074
